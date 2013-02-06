@@ -46,7 +46,6 @@
             <!-- Show app icon in Launcher. -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
             <!-- Handle global search. -->
             <intent-filter>
